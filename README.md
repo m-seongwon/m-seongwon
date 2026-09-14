@@ -15,7 +15,6 @@ Mar. 2022 – Present
 
 **Undergraduate Researcher**  
 School of AI Convergence, Sungshin Women’s University  
-Advisor: Prof. Kyujoong Lee  
 2024 – Present
 
 ## 🌱 Research Interests
