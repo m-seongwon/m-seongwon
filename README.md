@@ -8,7 +8,7 @@ Artificial Intelligence · Deep Learning · Computer Vision
 ## 🎓 Education
 
 **Sungshin Women’s University**  
-B.S. in AI Convergence  
+Undergraduate Student in AI Convergence  
 Mar. 2022 – Present
 
 ## 🔬 Research
