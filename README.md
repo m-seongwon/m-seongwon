@@ -1,20 +1,21 @@
 # Seongwon Moon 👩‍💻
 
-**Undergraduate Researcher in Computer Vision**
+**Undergraduate Researcher in Computer Vision**  
 Artificial Intelligence · Deep Learning · Computer Vision
 
 ---
 
 ## 🎓 Education
 
-**Sungshin Women’s University**
-B.S. in AI Convergence
+**Sungshin Women’s University**  
+B.S. in AI Convergence  
 Mar. 2022 – Present
 
 ## 🔬 Research
 
-**Undergraduate Researcher**
-School of AI Convergence, Sungshin Women’s University
+**Undergraduate Researcher**  
+School of AI Convergence, Sungshin Women’s University  
+Advisor: Prof. Kyujoong Lee  
 2024 – Present
 
 ## 🌱 Research Interests
